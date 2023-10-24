@@ -247,6 +247,9 @@ function displayPlayList(items) {
 window.onload = function () {
   displayPlayList(playlistNames);
 };
+function goHome(){
+  window.location ='index.html'
+}
 
 /**Funzione display Audioplayer */
 function displayAudioPlayer(data) {

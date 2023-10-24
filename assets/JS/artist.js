@@ -49,7 +49,7 @@ function displayPlayList(items) {
   });
 }
 function goHome(){
-  window.location ='home.html'
+  window.location ='index.html'
 }
 function goBack(){
   window.history.back();
